@@ -25,6 +25,8 @@
 - :telescope: I’m working as a Devops Cloud Architect and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
+-Excellent knowledge on hardware and networking connectps. 
+-Profecient in Windows & Mac OS
 
 - :zap: In my free time, I play badminton or learning advanced coding concepts.
 
