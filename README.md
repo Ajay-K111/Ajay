@@ -39,7 +39,7 @@ SNS, SQS, SES, Auto scaling, Lamda & CloudFormation.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-k-b5860013)
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" "https://aws.amazon.com/?nc2=h_lg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="Git" width="50" height="50"/>&nbsp;
