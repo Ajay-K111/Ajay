@@ -1,5 +1,5 @@
 # Ajay
- A seasoned IT Professional with 10 years of overall experience in Product based IT industry and have been successful at responding to shifting business needs and priorities in systematic &amp; effective way.
+ A seasoned IT Professional with 12 years of overall experience in Product based IT industry and have been successful at responding to shifting business needs and priorities in systematic &amp; effective way.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Xbn8ZbO95YeOJQtJz7/giphy.gif" width="400"/>
 <div id="badges">
@@ -21,13 +21,22 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- ### :man_technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="30"> from India.
-- :telescope: I’m working as a Devops Cloud Architect and contributing to frontend and backend for building web applications.
+ ### :man_technologist: About Me :I am a Enterprise Cloud Support Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="30"> from India.
+- :telescope: I’m working as a Enterprise Cloud Support Engineer at HP Inc.
 
 - :seedling: Exploring Technical Content Writing.
--Excellent knowledge on hardware and networking connectps. 
+-Excellent knowledge on hardware and networking connectps and Devops + Cloud Services. 
 -Profecient in Windows & Mac OS
 
+ Technical Proficiency:
+• Operating System Windows, Linux
+• MS tools MS Office –Excel, Microsoft Dynamics
+• AWS Services: - EC2, EFS, EBS, ELB, S3, VPC, IAM, Cloud Watch, Cloud Front, Cloud Trial,
+SNS, SQS, SES, Auto scaling, Lamda & CloudFormation.
+• Proficient on software containerization platforms like Docker
+• Hands on Virtual Machines. VMware, Hyper-V
+• Proficient in developing Continuous Integration/ Delivery pipelines with integration tools like Jenkins.
+ 
 - :zap: In my free time, I play badminton or learning advanced coding concepts.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ajay-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ajay-k-b5860013/))
