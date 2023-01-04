@@ -21,8 +21,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- ### :man_technologist: About Me :I am a Cloud Support Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="30"> from India.
-- :telescope: **Working at HP Inc.**
+ ### :man_technologist: About Me :I am a Cloud Support Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="40">from India.
+- :telescope:**Working at HP Inc.**
 
 -Excellent knowledge on hardware and networking connectps and Devops + Cloud Services. 
 
