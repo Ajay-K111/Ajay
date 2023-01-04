@@ -21,12 +21,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- ### :man_technologist: About Me :I am a Enterprise Cloud Support Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="30"> from India.
+ ### :man_technologist: About Me :I am a Cloud Support Engineer <img src="https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy-downsized-large.gif" width="30"> from India.
 - :telescope: I’m working as a Enterprise Cloud Support Engineer at HP Inc.
 
-- :seedling: Exploring Technical Content Writing.
 -Excellent knowledge on hardware and networking connectps and Devops + Cloud Services. 
--Profecient in Windows & Mac OS
 
  Technical Proficiency:
 • Operating System Windows, Linux
@@ -37,7 +35,7 @@ SNS, SQS, SES, Auto scaling, Lamda & CloudFormation.
 • Hands on Virtual Machines. VMware, Hyper-V
 • Proficient in developing Continuous Integration/ Delivery pipelines with integration tools like Jenkins.
  
-- :zap: In my free time, I play badminton or learning advanced coding concepts.
+- :zap: In my free time, I play badminton or Chess.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ajay-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ajay-k-b5860013/))
  <div>
